@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/mohamedomarr/friendly-barnacle/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/mohamedomarr/Portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   mohamed-omar.com - v2
@@ -12,7 +12,7 @@
   <a href="https://github.com/mohamedomarr/CS50x-2019-Pset5" target="_blank">v1</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/mohamedomarr/friendly-barnacle/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/mohamedomarr/Portfolio/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
