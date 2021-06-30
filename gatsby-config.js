@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Mohamed Saad Omar',
     description:
-      'Hi, my name is Mohamed Saad Omar. And I want to make things that make a difference.',
+      "Hello! I'm Mohamed Saad Omar, a Senior High School student and a Junior Developer based in Egypt.",
     siteUrl: 'https://mohamed-omar.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ms_omarr',
