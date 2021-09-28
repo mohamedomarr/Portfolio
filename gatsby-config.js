@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Mohamed Saad Omar',
     description:
-      "Mohamed Saad Omar is a Junior Mobile App Developer and a Senior High School student based in Egypt.",
+      "Mohamed Saad Omar is a Senior Shopify theme developer and Junior Mobile App Developer based in Egypt.",
     siteUrl: 'https://mohamed-omar.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ms_omarr',
