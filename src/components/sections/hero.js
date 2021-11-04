@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I want to make things that make a difference.</h3>;
   const four = (
     <p>
-      I’m a High School student, passionate about computer science and modern technologies, and
+      I’m a freshman Computer Science student, passionate about computer science and modern technologies, and
       everything in between. I seek to build exceptional AI projects to literally change the world.
     </p>
   );
